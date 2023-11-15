@@ -1,1 +1,1 @@
-# Network-Intrusion-Detection-System
+This repository contains code and resources for a Network Intrusion Detection System (NIDS). The NIDS is designed to monitor network traffic, detect suspicious or malicious activities, and provide alerts or take actions to mitigate potential threats.
